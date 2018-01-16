@@ -8,7 +8,7 @@ import biblio.model.Client;
 import biblio.model.Emprunt;
 import biblio.model.Livre;
 
-public class biblio {
+public class Biblio {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
