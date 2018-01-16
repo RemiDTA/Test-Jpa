@@ -4,6 +4,7 @@ import java.util.Set;
 
 import javax.persistence.*;
 @Entity
+@Inheritance(strategy = InheritanceType.JOINED)
 @Table(name = "compte")
 public class Compte {
 	
