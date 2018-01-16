@@ -42,4 +42,3 @@ public class biblio {
 		}
 	}
 }
-sgh;njsb klb
