@@ -1,11 +1,12 @@
+package biblio.main;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 import javax.persistence.Query;
 
-import model.Client;
-import model.Emprunt;
-import model.Livre;
+import biblio.model.Client;
+import biblio.model.Emprunt;
+import biblio.model.Livre;
 
 public class biblio {
 

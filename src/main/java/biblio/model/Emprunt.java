@@ -1,4 +1,4 @@
-package model;
+package biblio.model;
 
 import java.time.LocalDate;
 import java.util.Set;

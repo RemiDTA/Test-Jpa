@@ -1,4 +1,4 @@
-package model;
+package biblio.model;
 
 import java.util.Set;
 
